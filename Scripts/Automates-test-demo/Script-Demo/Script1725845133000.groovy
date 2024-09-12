@@ -27,7 +27,5 @@ WebUI.setText(findTestObject('Object Repository/Mnaul-Repository/Page_OrangeHRM/
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Mnaul-Repository/Page_OrangeHRM/input_Password_password'), GlobalVariable.PASSOWRD)
 
-not_run: WebUI.verifyTextPresent('Test merl error', false)
-
 WebUI.closeBrowser()
 
