@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>f3d3caf8-6fa5-4567-9052-28bb589631f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[3]/div/div/div/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-buzz-post-header-details > div.orangehrm-buzz-profile-image > img[alt=&quot;profile picture&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.orangehrm-buzz-post-header-details > .orangehrm-buzz-profile-image > img >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>fd5f518b-1fb9-4c32-b9b0-a9949477a95f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>profile picture</value>
+      <webElementGuid>bd9d37b2-5e57-4cc7-ad36-1b78e8269508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../pim/viewPhoto/empNumber/7</value>
+      <webElementGuid>a46e6287-5be1-4c4e-87c0-984713ec1652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;oxd-grid-2 orangehrm-buzz-layout&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;orangehrm-buzz-newsfeed&quot;]/div[@class=&quot;oxd-grid-1 orangehrm-buzz-newsfeed-posts&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--white orangehrm-buzz&quot;]/div[@class=&quot;orangehrm-buzz-post&quot;]/div[@class=&quot;orangehrm-buzz-post-header&quot;]/div[@class=&quot;orangehrm-buzz-post-header-details&quot;]/div[@class=&quot;orangehrm-buzz-profile-image&quot;]/img[1]</value>
+      <webElementGuid>ea4fe397-06fc-4b49-b5f0-a813e703e3df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[3]/div/div/div/div/div/div/img</value>
+      <webElementGuid>e7462522-6b76-4f18-b37a-77d89d0c0133</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='profile picture'])[3]</value>
+      <webElementGuid>e17c41ad-a5ce-4fee-8466-5699a8da1a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/img</value>
+      <webElementGuid>3a326894-bbd8-4191-bb2d-d495eb9e7bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'profile picture' and @src = '../pim/viewPhoto/empNumber/7']</value>
+      <webElementGuid>0589d44e-18d6-403a-b496-e38924112de9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

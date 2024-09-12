@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Time at WorkMy ActionsNo Pending Action_e59fac</name>
+   <tag></tag>
+   <elementGuidId>2da22ac5-0957-4180-b4e7-f5f6b4b5a1f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;Time at WorkMy ActionsNo Pending Actions to PerformQuick LaunchBuzz Latest Posts&quot;i >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c3461e25-55ed-479e-9c89-b0476cf867ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>44177355-572f-4c20-acee-2a3cb3a0bf64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Time at WorkMy ActionsNo Pending Actions to PerformQuick LaunchBuzz Latest PostsEmployees on Leave TodayEmployee Distribution by Sub UnitEmployee Distribution by Location</value>
+      <webElementGuid>0beb6039-988c-4307-b23e-fe153e3f1089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>4811b207-d5f3-43ba-90d2-272b9fd766ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>463f2db7-8d05-4688-a2cd-4314b1710acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/preceding::div[44]</value>
+      <webElementGuid>df1667ad-0c85-4a1a-b3f6-3a1f107618e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>e7528e43-a377-40a7-9ef2-142fc12ecf01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Time at WorkMy ActionsNo Pending Actions to PerformQuick LaunchBuzz Latest PostsEmployees on Leave TodayEmployee Distribution by Sub UnitEmployee Distribution by Location' or . = 'Time at WorkMy ActionsNo Pending Actions to PerformQuick LaunchBuzz Latest PostsEmployees on Leave TodayEmployee Distribution by Sub UnitEmployee Distribution by Location')]</value>
+      <webElementGuid>05856cfa-f3a4-428d-add9-3771b6d60b43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
