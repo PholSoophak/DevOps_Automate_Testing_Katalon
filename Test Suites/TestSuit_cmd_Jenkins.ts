@@ -19,10 +19,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>7837f3f2-3634-4376-9835-a9e50ea6541a</guid>
+      <guid>3b7fbc64-2aeb-4918-8007-575f1475f89b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Jenkins_TestCase2</testCaseId>
+      <testCaseId>Test Cases/Automates-test-demo/Manual-Demo</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
