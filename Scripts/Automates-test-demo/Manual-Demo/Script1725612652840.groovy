@@ -27,7 +27,7 @@ WebUI.setEncryptedText(findTestObject('Mnaul-Repository/Page_OrangeHRM/input_Pas
 
 WebUI.submit(findTestObject('Mnaul-Repository/Page_OrangeHRM/button_Login'))
 
-not_run: WebUI.verifyTextPresent('Dak Bug merl ERROR ', false)
+WebUI.verifyTextPresent('Dak Bug merl ERROR ', false)
 
 WebUI.closeBrowser()
 
