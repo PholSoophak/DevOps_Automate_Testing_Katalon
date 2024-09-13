@@ -15,14 +15,14 @@
       <guid>a9ba6b37-4aa5-4ab1-81bf-ab96641c2dc0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Jenkins_TestCase</testCaseId>
+      <testCaseId>Test Cases/Jenkins_TestCase1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>3b7fbc64-2aeb-4918-8007-575f1475f89b</guid>
+      <guid>feff340b-624a-4b90-b2fc-a9212ae28b8a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Automates-test-demo/Manual-Demo</testCaseId>
+      <testCaseId>Test Cases/Jenkins_TestCase2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
