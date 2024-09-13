@@ -19,15 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-not_run: WebUI.delay(7)
-
 WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.setText(findTestObject('Object Repository/Mnaul-Repository/Page_OrangeHRM/input_Username_username'), Username)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Mnaul-Repository/Page_OrangeHRM/input_Password_password'), GlobalVariable.PASSOWRD)
-
-not_run: WebUI.verifyTextPresent('Test merl error', false)
 
 WebUI.closeBrowser()
 
