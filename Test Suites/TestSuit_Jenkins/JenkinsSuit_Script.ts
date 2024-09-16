@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TestSuit_cmd_Jenkins</name>
+   <name>JenkinsSuit_Script</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>f2af1f0a-e181-4e04-931b-79a4f2348b85</testSuiteGuid>
+   <testSuiteGuid>ae3c0ad1-9118-4a46-8cec-5c97a19efc7c</testSuiteGuid>
    <testCaseLink>
-      <guid>a9ba6b37-4aa5-4ab1-81bf-ab96641c2dc0</guid>
+      <guid>7e09efea-fc2e-4365-b0f7-b49c10626d41</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Jenkins_TestCase_Script/Jenkins_TestCase1</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>feff340b-624a-4b90-b2fc-a9212ae28b8a</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Jenkins_TestCase_Script/Jenkins_TestCase2</testCaseId>
+      <testCaseId>Test Cases/Jenkins_TestCase_Script/Jenkins_Script_Demo</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
