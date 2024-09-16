@@ -26,7 +26,7 @@ WebUI.click(findTestObject('Object Repository/Jenkins_Script/Page_CURA Healthcar
 WebUI.setText(findTestObject('Object Repository/Jenkins_Script/Page_CURA Healthcare Service/input_Username_username'), 'John Doe')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Jenkins_Script/Page_CURA Healthcare Service/input_Password_password'), 
-    'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
+    'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Jenkins_Script/Page_CURA Healthcare Service/button_Login'))
 
