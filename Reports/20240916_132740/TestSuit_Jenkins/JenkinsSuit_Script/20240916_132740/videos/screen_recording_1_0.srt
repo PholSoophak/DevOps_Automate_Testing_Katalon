@@ -1,0 +1,52 @@
+1
+00:00:00,094 --> 00:00:01,277
+1. openBrowser("")
+
+2
+00:00:01,283 --> 00:00:20,532
+5. navigateToUrl("https://katalon-demo-cura.herokuapp.com/")
+
+3
+00:00:20,533 --> 00:00:21,433
+9. click(findTestObject("Object Repository/Jenkins_Script/Page_CURA Healthcare Service/a_Make Appointment"))
+
+4
+00:00:21,434 --> 00:00:21,957
+13. setText(findTestObject("Object Repository/Jenkins_Script/Page_CURA Healthcare Service/input_Username_username"), "John Doe")
+
+5
+00:00:21,957 --> 00:00:22,268
+17. setEncryptedText(findTestObject("Object Repository/Jenkins_Script/Page_CURA Healthcare Service/input_Password_password"), "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM")
+
+6
+00:00:22,270 --> 00:00:23,269
+21. click(findTestObject("Object Repository/Jenkins_Script/Page_CURA Healthcare Service/button_Login"))
+
+7
+00:00:23,270 --> 00:00:24,240
+25. selectOptionByValue(findTestObject("Object Repository/Jenkins_Script/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107"), "Hongkong CURA Healthcare Center", true)
+
+8
+00:00:24,240 --> 00:00:24,499
+29. click(findTestObject("Object Repository/Jenkins_Script/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34"))
+
+9
+00:00:24,499 --> 00:00:24,967
+33. click(findTestObject("Object Repository/Jenkins_Script/Page_CURA Healthcare Service/td_16"))
+
+10
+00:00:24,967 --> 00:00:25,691
+37. setText(findTestObject("Object Repository/Jenkins_Script/Page_CURA Healthcare Service/textarea_Comment_comment"), "testing")
+
+11
+00:00:25,693 --> 00:00:26,519
+41. click(findTestObject("Object Repository/Jenkins_Script/Page_CURA Healthcare Service/button_Book Appointment"))
+
+12
+00:00:26,519 --> 00:00:27,390
+45. click(findTestObject("Object Repository/Jenkins_Script/Page_CURA Healthcare Service/a_Go to Homepage"))
+
+13
+00:00:27,391 --> 00:00:27,598
+49. closeBrowser()
+
