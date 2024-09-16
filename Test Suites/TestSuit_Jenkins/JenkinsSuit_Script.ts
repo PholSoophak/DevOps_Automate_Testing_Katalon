@@ -12,10 +12,17 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>ae3c0ad1-9118-4a46-8cec-5c97a19efc7c</testSuiteGuid>
    <testCaseLink>
-      <guid>0650a5b1-df70-4f79-9e55-5f7f362351f4</guid>
+      <guid>b8893a1c-1d92-49f8-a2a7-05b7dbdf3a1c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Jenkins_TestCase_Script/Jenkins_TestCase1</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9eda5139-5209-404a-821f-349b37991510</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Jenkins_TestCase_Script/Jenkins_TestCase2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
